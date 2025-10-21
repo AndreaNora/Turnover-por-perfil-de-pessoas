@@ -20,7 +20,7 @@ Este projeto visa analisar o perfil de funcionários que impacta a alta rotativi
 
 ## 📈 Metodologia e Análise (A ser preenchido)
 
-1. **Coleta de Dados**:
-2. **Tratamento no Power Query** :
-3. **Cálculos DAX Chave** :
+1. **Coleta de Dados**: Os dados foram extraídos da internet, sendo uma base de dados **fictícia** de Recursos Humanos, utilizada para fins de estudo e análise. 
+2. **Tratamento no Power Query** : Em colunas de texto, os valores em branco foram preenchidos com "N/A" para garantir a integridade da análise.
+3. **Cálculos DAX Chave** : Cálculo da Idade Média e Mediana - Foi calculada a média da idade dos funcionários (usando AVERAGE) e, para lidar com possíveis outliers que poderiam distorcer a média, foi também implementada a mediana (usando MEDIAN) como uma medida mais robusta da centralidade da idade. Cálculo do Tempo de Casa - Utilizou-se a função DATEDIFF para determinar o tempo de serviço de cada funcionário, calculando a diferença em dias/meses/anos entre a data de admissão e a data de demissão e a data atual, para funcionários ativos.
 4. **Principais Insights** :
