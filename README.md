@@ -1,7 +1,7 @@
 # 📊 Análise de Rotatividade por Perfil de Pessoas (Power BI)
 
 ## Status do Projeto
-> 🚧 **EM ANDAMENTO (Documentação):** Este projeto está sendo documentado. O dashboard Power BI e as análises já estão finalizadas, e o Estudo de Caso (Metodologia e Resultados) será adicionado em breve.
+> ✅ **CONCLUÍDO:** Dashboard finalizado e documentação publicada.
 
 ---
 
@@ -15,7 +15,12 @@ Este projeto visa analisar o perfil de funcionários que impacta a alta rotativi
 
 ---
 
-## 🖼️ Dashboard e Resultados (A ser preenchido)
+## 🖼️ Dashboard e Resultados
+> 📊 Visão geral da análise de rotatividade dos funcionários.
+![Dashboard](https://raw.githubusercontent.com/AndreaNora/Turnover-por-perfil-de-pessoas/main/An%C3%A1lise_rotatividade_funcion%C3%A1rios.png)
+
+
+
 
 
 ## 📈 Metodologia e Análise (A ser preenchido)
