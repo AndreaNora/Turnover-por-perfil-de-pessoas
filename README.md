@@ -31,7 +31,7 @@ Este projeto visa analisar o perfil de funcionários que impacta a alta rotativi
 2. **Tratamento no Power Query** : Em colunas de texto, os valores em branco foram preenchidos com "N/A" para garantir a integridade da análise.
 3. **Cálculos DAX Chave** : Cálculo da Idade Média e Mediana - Foi calculada a média da idade dos funcionários (usando AVERAGE) e, para lidar com possíveis outliers que poderiam distorcer a média, foi também implementada a mediana (usando MEDIAN) como uma medida mais robusta da centralidade da idade. Cálculo do Tempo de Casa - Utilizou-se a função DATEDIFF para determinar o tempo de serviço de cada funcionário, calculando a diferença em dias/meses/anos entre a data de admissão e a data de demissão e a data atual, para funcionários ativos.
 
-4. **Principais Insights** :
+## 💡**Principais Insights** :
 
 O gênero feminino são os que mais saíram, representado por 36,9% do total de pessoas que responderam. 	
 
@@ -50,7 +50,7 @@ TI e Financeiro tem perdido funcionários por conta de salários e novas oportun
 Observa-se que há uma tendência de queda acentuada e consistente (em forma de "U" invertido), o que significa que, nos últimos anos, a capacidade de retenção da empresa está piorando rapidamente.
 
 
-5. **Plano de Ação** :
+## 🎯 **Plano de Ação** :
 
 • Reduzir saídas do gênero feminino
 
